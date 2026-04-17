@@ -53,7 +53,7 @@ const BOT_RESPONSES = {
    ════════════════════════════════════════════════════════════════ */
 
 const supabaseUrl = 'https://mzwwawtlclbfaodpodgf.supabase.co';
-const supabaseKey = 'REPLACE_ME_WITH_YOUR_ANON_KEY';
+const supabaseKey = 'sb_publishable_7u70cb6ORGooSkLyKFEGrA_kqfEWisF';
 const supabase = window.supabase.createClient(supabaseUrl, supabaseKey);
 
 const DB_CACHE = {
